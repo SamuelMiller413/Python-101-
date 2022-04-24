@@ -2,7 +2,12 @@
 # are .pdf files, and which aren't.
 # Call the method on each file string and print() Python's response.
 
-file_1 = "operators.pdf"
-file_2 = "snowfall.jpg"
-file_3 = "uncle-joes-wedding.doc"
-file_4 = "invitation.pdf"
+a = "operators.pdf"
+b = "snowfall.jpg"
+c = "uncle-joes-wedding.doc"
+d = "invitation.pdf"
+
+print(a.endswith("pdf"))
+print(b.endswith("pdf"))
+print(c.endswith("pdf"))
+print(d.endswith("pdf"))

@@ -8,3 +8,17 @@
 #     P         Y         T      H    H    O   O   N    N  N
 #     P         Y         T      H    H     O O    N     N N
 #     P         Y         T      H    H      O     N       N
+
+
+
+s = '''PPPP   Y     Y  TTTTTTTTT  H    H      O     N       N
+P   P   Y   Y       T      H    H     O O    N N     N
+P   P    Y Y        T      H    H    O   O   N  N    N
+PPPP      Y         T      HHHHHH    O   O   N   N   N
+P         Y         T      H    H    O   O   N    N  N
+P         Y         T      H    H     O O    N     N N
+P         Y         T      H    H      O     N       N '''
+
+print()
+print(s)
+print()
