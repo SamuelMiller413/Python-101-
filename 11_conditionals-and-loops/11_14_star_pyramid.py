@@ -22,3 +22,9 @@
 # * * *
 #
 # HINT: Think of nested for loops!
+
+stars = 200
+output = ""
+for char in range(stars):
+    output += " * "
+    print(output)

@@ -6,3 +6,8 @@
 
 start = 1
 stop = 100
+sum = 0 
+
+for num in range(start, stop + 1):
+    sum = sum + num
+print(sum)
