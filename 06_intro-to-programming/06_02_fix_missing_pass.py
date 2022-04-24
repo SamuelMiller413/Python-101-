@@ -4,7 +4,7 @@
 flag = False
 while flag:
     #keep doing what you're doing
-
+    pass
 print("all done.")
 
 #to fix error, double indent line 8
