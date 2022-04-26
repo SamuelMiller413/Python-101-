@@ -1,6 +1,3 @@
-# Re-create the guess-my-number game from scratch. Don't peek!
-# This time, give your players only a certain amount of tries 
-# before they lose.
 import random
 
 num = random.randint(1,20)
@@ -46,3 +43,5 @@ while guess != num and x < 5:
         print("Better luck next time!")
         break
     x += 1
+    
+    
